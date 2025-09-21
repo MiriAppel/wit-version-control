@@ -18,12 +18,10 @@ A custom version control system built in Python that replicates essential Git fu
 git clone https://github.com/MiriAppel/wit-version-control.git
 cd wit-version-control
 ```
-
 2. Install dependencies:
 ```bash
 pip install click
 ```
-
 3. Run wit commands:
 ```bash
 python main.py init         # Or use wit.bat on Windows
